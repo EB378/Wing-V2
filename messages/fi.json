@@ -1,0 +1,60 @@
+{
+    "NavbarLinks": {
+      "homeTitle": "EkoForge - B2B Kasvukumppani",
+      "nav1": "Kuinka Korjaan Yritykseni?",
+      "nav2": "Asiakaskokemuksia",
+      "nav3": "Ota Yhteyttä",
+      "nav4": "Varaa Aika"
+    },
+    "Footer": {
+      "aboutText": "Edistämme Liiketoimintaa Digitaalisilla Ratkaisuilla.",
+      "navigation": "Navigointi",
+      "book a call": "Varaa Aika",
+      "fix my business": "Korjaa Yritykseni",
+      "case studies": "Tapaustutkimukset",
+      "testimonials": "Asiakaskokemuksia",
+      "contact": "Ota Yhteyttä",
+      "socialmedia": "Sosiaalinen Media",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "linkedin": "LinkedIn",
+      "company": "Yritys",
+      "about": "Meistä",
+      "legal": "Legal",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "license": "License",
+      "rights": "All rights reserved."
+    },
+    "HomePage": {
+      "Unleash Your Business Potential": "Enemmän kasvua.      Enemmän asiakkaita.      Taattu.",
+      "With Effective Digital Marketing Stratgies and Copy": "Mainokset eivät tuota? Haluatko laajentaa?",
+      "With Effective Digital Marketing Stratgies and Copy2": "Teemme yhteistyötä yritysten kanssa, jotka haluavat saada kunnollisen tuoton mainosbudjetilleen.",
+      "Book Your Call": "Varaa Aika",
+      "Contact Us": "Ota Yhteyttä",
+      "What's Holding": "Mikä Estää",
+      "You Back?": "Sinua?",
+      "Challenge1": "Ei Kokemusta.",
+      "ChallengeDetail1": "Et tiedä mistä aloittaa tai sinulta puuttuu tarvittava asiantuntemus.",
+      "Challenge2": "Ei Aikaa.",
+      "ChallengeDetail2": "Olet liian kiireinen yrityksesi johtamisessa keskittyäksesi kasvustrategioihin.",
+      "Challenge3": "Ei Resursseja.",
+      "ChallengeDetail3": "Sinulla ei ole oikeita työkaluja tai resursseja laajentamiseen.",
+      "Your Journey Starts Here": "Matkasi Alkaa Tästä",
+      "CTASUB": "Älä anna kilpailijoidesi mennä ohitsesi. Kasvata yritystäsi jo tänään.",
+      "Book a Free Consultation": "Varaa Ilmainen Konsultaatio"
+    },
+    "Testimonials": {
+      "title": "Mitä Asiakkaamme Sanovat",
+      "testimonial1": "Vaikutus brändiimme ja visuaaliseen ilmeeseemme on ollut erittäin positiivinen. Suosittelen lämpimästi näitä palveluja kaikille yrityksille tai järjestöille, jotka haluavat luotettavia, nopeita ja laadukkaita visuaalisia päivityksiä sosiaaliseen mediaansa tai mainontaan.",
+      "testimonial2": "Hän kommunikoi erinomaisesti ja kohteliaasti kaikkien kanssa, mutta osasi myös työskennellä hyvin itsenäisesti ja tuoda esiin omia näkemyksiään ja ideoitaan työn toteutukseen. Hän tuotti upean esittelyvideon projektistamme."
+    },
+    "Contact": {
+      "title": "Ota Yhteyttä",
+      "name": "Nimi",
+      "emailentry": "Sähköposti",
+      "reason": "Miksi otat meihin yhteyttä?",
+      "send": "Lähetä",
+      "contact information": "Yhteystiedot"
+    }
+  }
