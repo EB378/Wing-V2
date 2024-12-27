@@ -1,60 +1,56 @@
 {
-    "NavbarLinks": {
-      "homeTitle": "EkoForge - B2B Growth Partner",
-      "nav1": "How Do I Fix My Business?",
-      "nav2": "Testimonials",
-      "nav3": "Contact Us",
-      "nav4": "Book A Call"
-    },
-    "Footer": {
-        "aboutText": "Advancing Business With Digital Solutions.",
-        "navigation": "Navigation",
-        "book a call": "Book a Call",
-        "fix my business": "Fix My Business",
-        "case studies": "Case Studies",
-        "testimonials": "Testimonials",
-        "contact": "Contact Us",
-        "socialmedia": "Social Media",
-        "instagram": "Instagram",
-        "facebook": "Facebook",
-        "linkedin": "Linkedin",
-        "company": "Company",
-        "about": "About us",
-        "legal": "Legal",
-        "terms": "Terms of Service",
-        "privacy": "Privacy Policy",
-        "license": "License",
-        "rights": "All rights reserved."
-      },
-    "HomePage": {
-      "Unleash Your Business Potential": "More Growth.     More Clients.      Guaranteed.",
-      "With Effective Digital Marketing Stratgies and Copy": "Ads not performing? Looking to scale?",
-      "With Effective Digital Marketing Stratgies and Copy2": "We partner with businesses that are looking to get a proper return on investment for their advertising budget.",
-      "Book Your Call": "Book Your Call",
-      "Contact Us": "Contact Us",
-      "What's Holding": "What’s Holding",
-      "You Back?": "You Back?",
-      "Challenge1": "No Experience.",
-      "ChallengeDetail1": "You don’t know where to start or lack the expertise to move forward.",
-      "Challenge2": "No Time.",
-      "ChallengeDetail2": "You’re too busy managing your business to focus on growth strategies.",
-      "Challenge3": "No Resources.",
-      "ChallengeDetail3": "You don’t have the right tools or resources to scale effectively.",
-      "Your Journey Starts Here": "Your Journey Starts Here",
-      "CTASUB": "Don't let your competitors take the lead. Let's grow your business today.",
-      "Book a Free Consultation": "Book a Free Consultation"
-    },
-    "Testimonials": {
-      "title": "What Our Clients Say",
-      "testimonial1": "The impact on our branding and visual image has been very positive. I would highly recommend these services for any company or NGO that wants to have reliable, fast paced and good quality visual updates for their social media and/or advertisement.",
-      "testimonial2": "He communicated with everyone excellently and politely, on the other hand he was able to work very independently and had his own visions and ideas on how to do the work. He produced an amazing outreach video for our project."
-    },
-    "Contact": {
-      "title": "Contact Us",
-      "name": "Name",
-      "emailentry": "Email",
-      "reason": "What are you contacting us about?",
-      "send": "Send",
-      "contact information": "Contact Information"
-    }
+  "HomePage": {
+    "Affordable Aircraft Rentals": "Affordable Aircraft Rentals",
+    "Explore the beauty of Southern Finland from the skies": "Explore the beauty of Southern Finland from the skies.",
+    "Book Your Flight": "Book Your Flight",
+    "Contact Us": "Contact Us",
+    "In Southern Finland": "In Southern Finland",
+    "Flexible Booking": "Flexible Booking",
+    "Choose rental times that fit your schedule": "Choose rental times that fit your schedule.",
+    "Cost-Effective Pricing": "Cost-Effective Pricing",
+    "Enjoy premium services at affordable rates": "Enjoy premium services at affordable rates.",
+    "Beautiful Destinations": "Beautiful Destinations",
+    "Fly to stunning locations around Southern Finland": "Fly to stunning locations around Southern Finland.",
+    "Start Your Adventure Today": "Start Your Adventure Today",
+    "Discover the freedom of flight": "Discover the freedom of affordable aircraft rentals.",
+    "Book Now": "Book a Flight"
+  },
+  "AircraftOptions": {
+    "title": "Choose Your Aircraft",
+    "aircraft1Description": "A versatile and reliable aircraft, perfect for beginners.",
+    "aircraft2Description": "Ideal for short trips and navigation practice.",
+    "aircraft3Description": "A modern choice with excellent performance and comfort."
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "emailentry": "Email Address",
+    "reason": "Reason for Contact",
+    "send": "Send Message",
+    "contact information": "Contact Information"
+  },
+  "Footer": {
+    "aboutText": "Affordable and reliable aircraft rentals in Southern Finland.",
+    "navigation": "Navigation",
+    "book a flight": "Book a Flight",
+    "aircraft options": "Aircraft Options",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "socialmedia": "Social Media",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "company": "Company",
+    "about": "About Us",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "license": "License Agreement",
+    "rights": "All rights reserved."
+  },
+  "NavbarLinks": {
+    "contact": "Contact",
+    "aircraftOptions": "Aircraft Options",
+    "bookFlight": "Book a Flight"
   }
+}
